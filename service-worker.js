@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dana-cita-front-end-test/precache-manifest.7e0dc866535a438e5d4a8a16c7581b51.js"
+  "/dana-cita-front-end-test/precache-manifest.559974817417f065e0c7af2852460c77.js"
 );
 
 workbox.clientsClaim();
