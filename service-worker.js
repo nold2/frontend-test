@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dana-cita-front-end-test/precache-manifest.559974817417f065e0c7af2852460c77.js"
+  "/frontend-test/precache-manifest.59e6270d1ff6f7eac2a38642b20bf007.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/dana-cita-front-end-test/index.html", {
+workbox.routing.registerNavigationRoute("/frontend-test/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

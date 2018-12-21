@@ -1,15 +1,15 @@
 {
-  "main.js": "/dana-cita-front-end-test/static/js/main.d72bd0ba.chunk.js",
-  "main.js.map": "/dana-cita-front-end-test/static/js/main.d72bd0ba.chunk.js.map",
-  "static/js/1.4a5a4882.chunk.js": "/dana-cita-front-end-test/static/js/1.4a5a4882.chunk.js",
-  "static/js/1.4a5a4882.chunk.js.map": "/dana-cita-front-end-test/static/js/1.4a5a4882.chunk.js.map",
-  "static/js/2.267fe139.chunk.js": "/dana-cita-front-end-test/static/js/2.267fe139.chunk.js",
-  "static/js/2.267fe139.chunk.js.map": "/dana-cita-front-end-test/static/js/2.267fe139.chunk.js.map",
-  "static/js/3.761cb8ff.chunk.js": "/dana-cita-front-end-test/static/js/3.761cb8ff.chunk.js",
-  "static/js/3.761cb8ff.chunk.js.map": "/dana-cita-front-end-test/static/js/3.761cb8ff.chunk.js.map",
-  "runtime~main.js": "/dana-cita-front-end-test/static/js/runtime~main.be5adefb.js",
-  "runtime~main.js.map": "/dana-cita-front-end-test/static/js/runtime~main.be5adefb.js.map",
-  "index.html": "/dana-cita-front-end-test/index.html",
-  "precache-manifest.559974817417f065e0c7af2852460c77.js": "/dana-cita-front-end-test/precache-manifest.559974817417f065e0c7af2852460c77.js",
-  "service-worker.js": "/dana-cita-front-end-test/service-worker.js"
+  "main.js": "/frontend-test/static/js/main.65901e35.chunk.js",
+  "main.js.map": "/frontend-test/static/js/main.65901e35.chunk.js.map",
+  "static/js/1.9426d431.chunk.js": "/frontend-test/static/js/1.9426d431.chunk.js",
+  "static/js/1.9426d431.chunk.js.map": "/frontend-test/static/js/1.9426d431.chunk.js.map",
+  "static/js/2.cbf28712.chunk.js": "/frontend-test/static/js/2.cbf28712.chunk.js",
+  "static/js/2.cbf28712.chunk.js.map": "/frontend-test/static/js/2.cbf28712.chunk.js.map",
+  "static/js/3.2edf8c33.chunk.js": "/frontend-test/static/js/3.2edf8c33.chunk.js",
+  "static/js/3.2edf8c33.chunk.js.map": "/frontend-test/static/js/3.2edf8c33.chunk.js.map",
+  "runtime~main.js": "/frontend-test/static/js/runtime~main.e054f67c.js",
+  "runtime~main.js.map": "/frontend-test/static/js/runtime~main.e054f67c.js.map",
+  "index.html": "/frontend-test/index.html",
+  "precache-manifest.59e6270d1ff6f7eac2a38642b20bf007.js": "/frontend-test/precache-manifest.59e6270d1ff6f7eac2a38642b20bf007.js",
+  "service-worker.js": "/frontend-test/service-worker.js"
 }
